@@ -4,7 +4,6 @@ title: Mehraj
 remote_theme: "jekyll/minima@1e8a445"
 minima:
   skin: dark
-minima:
   nav_pages:
     - about.md
     - portfolio.md
